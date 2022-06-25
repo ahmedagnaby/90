@@ -76,7 +76,7 @@
         },
         "UPSTREAM_REPO": {
             "description": "Jika Anda tidak tahu ini, Biarkan apa adanya ato di /skip",
-            "value": "https://github.com/1680X/90",
+            "value": "https://github.com/ahmedagnaby/90",
             "required": true
         },
         "UPSTREAM_BRANCH": {
